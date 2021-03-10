@@ -1,0 +1,14 @@
+{
+  "name": "mock-delete-loader",
+  "version": "1.0.0",
+  "description": "a loader for delete mock code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gt",
+  "license": "ISC",
+  "dependencies": {
+    "loader-utils": "^2.0.0"
+  }
+}
